@@ -1,0 +1,19 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "name": "Waving Cat",
+            "url": "https://www.youtube.com/embed/W9UFY86QPm0?si=BhM0btraxvgAMNGi"
+        },
+        {
+            "id": 2,
+            "name": "Keyboard Cat",
+            "url": "https://www.youtube.com/embed/J---aiyznGQ?si=ERP6hOB0I1i0i372"
+        },
+        {
+            "id": 3,
+            "name": "Meowmed Ali",
+            "url": "https://www.youtube.com/embed/ID00kp19PJM?si=oRd29L1g0U0n06AS"
+        }
+    ]
+}
